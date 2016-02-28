@@ -1,0 +1,27 @@
+_repo: Hormones-and-Heredity-A-Discussion-of-the-Evolution-of-Adaptations-and-the-Evolution-of-Specie__8517
+creator:
+  author:
+    agent_name: Cunningham, J. T. (Joseph Thomas)
+    alias: Cunningham, Joseph Thomas
+    birthdate: 1859
+    deathdate: 1935
+    gutenberg_agent_id: '2781'
+    url: http://www.gutenberg.org/2009/agents/2781
+description: ''
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8517'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Heredity'
+- !lcsh 'Mendel''s law'
+- !lcsh 'Endocrinology'
+- !lcsh 'Hormones'
+- !lcc 'QH'
+title: "Hormones and Heredity\r\nA Discussion of the Evolution of Adaptations and\
+  \ the Evolution of Species"
+url: http://www.gutenberg.org/ebooks/8517
